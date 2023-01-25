@@ -13,11 +13,11 @@ usage: ftd2_qy15 [-h] [--sw1] [--sw2] [--sw3] [--sw4] [-r] [-v]
 
 ftd2_qy15 v1.4.0
 
-optional arguments:
-  -h, --help     show this help message and exit
-  --sw1          Switch 1 : On, Not specified: off
-  --sw2          Switch 2 : On, Not specified: off
-  --sw3          Switch 3 : On, Not specified: off
-  --sw4          Switch 4 : On, Not specified: off
-  -r, --reset    Ignore Previous SW params
-  -v, --version  show program's version number and exit
+optional arguments:  
+  -h, --help     show this help message and exit  
+  --sw1          Switch 1 : On, Not specified: off  
+  --sw2          Switch 2 : On, Not specified: off  
+  --sw3          Switch 3 : On, Not specified: off  
+  --sw4          Switch 4 : On, Not specified: off  
+  -r, --reset    Ignore Previous SW params  
+  -v, --version  show program's version number and exit  
